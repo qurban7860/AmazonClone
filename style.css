@@ -3,6 +3,7 @@
   font-family: Arial, Helvetica, sans-serif;
   border: border-box;
 }
+/* Navigation bar */
 .navbar {
   height: 60px;
   background-color: #0f1111;
@@ -118,7 +119,7 @@ span{
 
 }
 
-/* HeroSection */
+/* HomeSection */
 .homesection{
   background-image: url(HomeSection.jpg);
   background-size: cover;
